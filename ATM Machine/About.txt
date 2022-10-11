@@ -1,0 +1,13 @@
+Problem Statement- 
+This project is to make an automated teller machine with user's account and password, 
+bank account, with that user are able to withdraw, deposit, and view their account balance.
+
+Requirements-
+Core Java
+JDK Installed
+IntelliJ IDE
+
+Account Number:
+9876543
+Password:
+9876
